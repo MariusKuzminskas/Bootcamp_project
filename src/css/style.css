@@ -1,0 +1,47 @@
+body {
+  background-color: #ebebeb; }
+
+.bg-transp-dark-rounded {
+  color: white;
+  background-color: rgba(3, 3, 3, 0.623);
+  border: 10px solid rgba(255, 255, 255, 0);
+  border-radius: 10px; }
+
+nav .nav-link {
+  margin-left: 20px;
+  margin-right: 20px;
+  font-size: 1rem;
+  font-weight: bold; }
+
+.first-section {
+  height: 80vh;
+  background-image: url("../img/cover.jpeg");
+  background-size: cover; }
+  .first-section .first-section-column {
+    height: 80vh; }
+  .first-section .form-control {
+    width: 50%; }
+  .first-section .btn {
+    width: 25%; }
+  .first-section h1 {
+    font-family: "Arial Black", Gadget, sans-serif;
+    font-size: 3rem; }
+
+.features-section {
+  color: #06739e; }
+  .features-section .feature-row {
+    margin-top: 7%; }
+  .features-section i {
+    font-size: 4rem;
+    margin-bottom: 20px; }
+
+.repair-pic-container {
+  height: 80vh;
+  color: #dadada;
+  background-image: url("../img/repair.jpeg");
+  background-size: cover;
+  background-attachment: fixed; }
+  .repair-pic-container .repair-section-text-container {
+    height: 80vh; }
+  .repair-pic-container li {
+    font-size: 1.3rem; }
