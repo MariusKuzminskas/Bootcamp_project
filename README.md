@@ -1,4 +1,22 @@
-# Bootstrap 4 Starter Pack (BETA 4.0.0)
+# My early version of my graduation project in Kuanas Coding School BootCamp
+
+the forther more developed version is hosted at portfolio.mcodeall.com 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+### Bootstrap 4 Starter Pack (BETA 4.0.0)
 
 Includes complete Bootstrap 4.0.0-beta dev environment with gulp and sass
 
