@@ -2,7 +2,7 @@
 
 the forther more developed version is hosted at [portfolio.mcodeall.com](portfolio.mcodeall.com) 
 
-HTML, CSS, , JS, jQuery PHP
+HTML, CSS, , JS, jQuery, Bootstrap4, PHP
 
 
 
